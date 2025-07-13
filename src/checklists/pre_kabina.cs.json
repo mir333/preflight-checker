@@ -1,0 +1,15 @@
+{
+  "id": "pre_kabina",
+  "title": "Před vstupem do kabiny",
+  "steps": [
+    { "text": "Množství paliva a víčko" },
+    { "text": "Přepínač na BRAKE" },
+    { "text": "Tlak min. 6 bar" },
+    { "text": "Zajištění rotoru sejmout" },
+    { "text": "Spolucestující - poučen a upoután" },
+    { "text": "Bezpečnostní pásy - upevněny, neporušeny" },
+    { "text": "Volné předměty - odstraněny" },
+    { "text": "Úložné přihrádky - zavřeny a zajištěny" },
+    { "text": "Palivový ventil - otevřen a zajištěn" }
+  ]
+}

@@ -61,7 +61,7 @@ export default function ChecklistView({checklist}: ChecklistViewProps) {
             className={`h-[70vh] w-full max-w-full  flex items-center justify-center text-lg  font-semibold my-6  text-center px-2 break-words rounded-2xl border-2 border-black shadow-xl bg-white z-10`}
             onClick={() => setCurrent(current + 1)}
           >
-            {checklist.steps[current].text}
+            <h2 className="text-4xl">{checklist.steps[current].text}</h2>
           </button>
 
           {/* Next Step (partially visible, faded card, now clickable) */}

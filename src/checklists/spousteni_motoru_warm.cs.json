@@ -1,0 +1,23 @@
+{
+  "id": "spousteni_motoru_warm",
+  "title": "Spouštění motoru (Teplý motor)",
+  "steps": [
+    { "text": "Bezpečnostní pásy - zapnuty a dotaženy" },
+    { "text": "Řízení - volné" },
+    { "text": "Kryt kabiny - zavřen a zajištěn" },
+    { "text": "Parkovací brzda - zabržděno" },
+    { "text": "Plyn - volnoběh nebo mírně otevřen" },
+    { "text": "Sytič - zavřen" },
+    { "text": "Hlavní vypínač - zapnuto" },
+    { "text": "Palivové čerpadlo P2 - zapnuto" },
+    { "text": "Vrtule - fine" },
+    { "text": "Světla, maják - zapnuto" },
+    { "text": "Prostor kolem vírníku a vrtule - volno" },
+    { "text": "Magneta - zapnuto" },
+    { "text": "Startér - zapnuto" },
+    { "text": "Po nastartování tlak oleje - min 1,5 bar" },
+    { "text": "Palivové čerpadlo P2 - vypnuto" },
+    { "text": "Přístroje/Radio - zapnuto" },
+    { "text": "Sytič - postupně zavírat" }
+  ]
+}
