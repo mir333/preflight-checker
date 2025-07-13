@@ -12,4 +12,9 @@ export const Route = createRootRoute({
 			<TanStackRouterDevtools />
 		</>
 	),
+	notFoundComponent: () => (
+		<div className="flex justify-center items-center min-h-[60vh] w-full text-xl text-red-600">
+			404 – Page Not Found
+		</div>
+	),
 });

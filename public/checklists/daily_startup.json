@@ -1,0 +1,11 @@
+{
+  "id": "daily_startup",
+  "title": "Daily Startup",
+  "description": "Checklist for daily system startup.",
+  "steps": [
+    { "id": 1, "text": "Power on main system" },
+    { "id": 2, "text": "Check system logs" },
+    { "id": 3, "text": "Run diagnostics" },
+    { "id": 4, "text": "Verify network connectivity" }
+  ]
+}
