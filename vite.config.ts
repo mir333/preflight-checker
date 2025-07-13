@@ -18,8 +18,9 @@ export default defineConfig({
 			includeAssets: ['favicon.ico', 'images/icon-192x192.png', 'images/icon-512x512.png', 'mask.svg'],
 			registerType: "autoUpdate",
 			manifest: {
-				name: "Preflight checker",
-				short_name: "Preflight checker",
+				"name": "Preflight checker",
+				"short_name": "Preflight checker",
+				"id": "/",
 				"start_url": "/",
 				"display": "standalone",
 				"theme_color": "#000000",
