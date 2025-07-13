@@ -1,5 +1,6 @@
-// List of checklist JSON files to load from public/checklists/
+import preflight from "./checklists/preflight.json";
+import daily_startup from "./checklists/daily_startup.json";
 export const CHECKLIST_FILES = [
-  "preflight.json",
-  "daily_startup.json"
+  preflight,
+  daily_startup
 ];
