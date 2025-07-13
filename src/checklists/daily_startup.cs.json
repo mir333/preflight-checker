@@ -1,0 +1,11 @@
+{
+  "id": "daily_startup",
+  "title": "Denní spuštění",
+  "description": "Kontrolní seznam pro denní spuštění systému.",
+  "steps": [
+    { "id": 1, "text": "Zapněte hlavní systém" },
+    { "id": 2, "text": "Zkontrolujte systémové protokoly" },
+    { "id": 3, "text": "Spusťte diagnostiku" },
+    { "id": 4, "text": "Ověřte síťové připojení" }
+  ]
+}
