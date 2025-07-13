@@ -1,15 +1,16 @@
 {
   "id": "pre_kabina_en",
   "title": "Before entering the cabin",
+  "description": "",
   "steps": [
-    { "text": "Fuel quantity and cap" },
-    { "text": "Switch to BRAKE" },
-    { "text": "Pressure min. 6 bar" },
-    { "text": "Remove rotor securing" },
-    { "text": "Passenger - briefed and secured" },
-    { "text": "Seat belts - fastened, undamaged" },
-    { "text": "Loose items - removed" },
-    { "text": "Storage compartments - closed and secured" },
-    { "text": "Fuel valve - open and secured" }
+    { "id": 1, "text": "Fuel quantity and cap" },
+    { "id": 2, "text": "Switch to BRAKE" },
+    { "id": 3, "text": "Pressure min. 6 bar" },
+    { "id": 4, "text": "Remove rotor securing" },
+    { "id": 5, "text": "Passenger - briefed and secured" },
+    { "id": 6, "text": "Seat belts - fastened, undamaged" },
+    { "id": 7, "text": "Loose items - removed" },
+    { "id": 8, "text": "Storage compartments - closed and secured" },
+    { "id": 9, "text": "Fuel valve - open and secured" }
   ]
 }

@@ -1,15 +1,16 @@
 {
   "id": "pre_kabina",
   "title": "Před vstupem do kabiny",
+  "description": "",
   "steps": [
-    { "text": "Množství paliva a víčko" },
-    { "text": "Přepínač na BRAKE" },
-    { "text": "Tlak min. 6 bar" },
-    { "text": "Zajištění rotoru sejmout" },
-    { "text": "Spolucestující - poučen a upoután" },
-    { "text": "Bezpečnostní pásy - upevněny, neporušeny" },
-    { "text": "Volné předměty - odstraněny" },
-    { "text": "Úložné přihrádky - zavřeny a zajištěny" },
-    { "text": "Palivový ventil - otevřen a zajištěn" }
+    { "id": 1, "text": "Množství paliva a víčko" },
+    { "id": 2, "text": "Přepínač na BRAKE" },
+    { "id": 3, "text": "Tlak min. 6 bar" },
+    { "id": 4, "text": "Zajištění rotoru sejmout" },
+    { "id": 5, "text": "Spolucestující - poučen a upoután" },
+    { "id": 6, "text": "Bezpečnostní pásy - upevněny, neporušeny" },
+    { "id": 7, "text": "Volné předměty - odstraněny" },
+    { "id": 8, "text": "Úložné přihrádky - zavřeny a zajištěny" },
+    { "id": 9, "text": "Palivový ventil - otevřen a zajištěn" }
   ]
 }

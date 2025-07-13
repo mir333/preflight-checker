@@ -20,7 +20,7 @@ function App() {
             onClick={() => navigate({to: `/checklist/${cl.id}`})}
           >
             <h2 className="m-0 text-xl font-semibold">{cl.title}</h2>
-            <p className="text-gray-600 mt-2">{cl.description}</p>
+            {cl.description && <p className="text-gray-600 mt-2">{cl.description}</p>}
           </div>
         ))}
       </div>
